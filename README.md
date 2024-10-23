@@ -10,7 +10,11 @@ As a dedicated frontend developer, I bring a keen eye for design and a deep unde
 
 🌐 Mentor and Educator Sharing my insights and experiences with others is a core aspect of my professional journey. I enjoy mentoring aspiring developers and contributing to the tech community through blogs, talks, and collaborative projects.
 
-Skills:  HTML / CSS/JS/BOOTSTRAB
+Skills: 
+* HTML
+* CSS
+* JS
+* BOOTSTRAB
 
 - 🔭 I’m currently working on this page. 
 
