@@ -1,34 +1,82 @@
-### Hi there 👋, I'm Ali Waleed
-#### A passionate frontend developer from Egypt
-![A passionate frontend developer from Egypt](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)
+<h2 align="left">Hi 👋! My name is Ali Waleed and I'm a frontend developer</h2>
 
-Frontend Developer | Passionate about Crafting Intuitive User Experiences
-
-As a dedicated frontend developer, I bring a keen eye for design and a deep understanding of user-centric web application development. My expertise lies in crafting responsive, intuitive, and visually appealing interfaces that elevate user engagement and satisfaction. I thrive on the continuous evolution of web technologies and am committed to staying at the forefront of industry trends.
-
-📈 Continuous Learner Every day presents a new opportunity to expand my skills and knowledge. I am driven by a relentless curiosity and a desire to master the latest tools and frameworks.
-
-🌐 Mentor and Educator Sharing my insights and experiences with others is a core aspect of my professional journey. I enjoy mentoring aspiring developers and contributing to the tech community through blogs, talks, and collaborative projects.
-
-Skills: 
-HTML/
-CSS/
-JS/
-BOOTSTRAB/
-REACT.JS
-
-- 🌱 I’m currently learning FrontEnd Developer 
-- 💬 Ask me about Always learning new things 
-- 📫 How to reach me: aw3043622@gmail.com 
+## 📈My Stats.
+<p align="center">
+  <a href="https://github.com/aloll0?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aloll0&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@aloll0's GitHub stats"/>
+  </a>
+  <a href="https://github.com/aloll0?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aloll0&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@aloll0's GitHub streak"/>
+  </a>
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aloll0) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aloll0/)   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aloll0)](https://github.com/ryo-ma/github-profile-trophy)
+## 🎖️My Trophies :
+<p align="left">
+  <a href="https://github.com/aloll0/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aloll0&theme=onedark" alt="trophy">
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloll0)](https://github.com/anuraghazra/github-readme-stats)
+## 🖌️Frontend :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="margin: 1rem; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aloll0&show_icons=true)  
+## 🌐React Libraries :
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactrouter/reactrouter-original.svg" height="30" alt="react-router logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactbootstrap/reactbootstrap-original.svg" height="30" alt="react-bootstrap logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/axios/axios-plain.svg" height="30" alt="axios logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aloll0)  
+## ⚙️ Backend :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" style="margin: 1rem; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://www.drupal.org/files/issues/2023-06-12/twig_tweak_original-fs8.png" height="30" alt="Twig logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
 
+## 💾 Backend Libraries :
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="Composer logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
+
+## 💻Languages & Tools :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="vs logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/figma/figma-original.svg" height="30" alt="figma logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="PHPStorm logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="CLion logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
+</div>
+
+## 🤵Connect with Me :
+<div align="left">
+  <a href="https://www.linkedin.com/in/ali-waleed-8190513a5?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Logo" />
+  </a>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/aloll0/aloll0/output/snake.svg" alt="Snake animation" />
+</div>
