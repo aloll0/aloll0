@@ -80,5 +80,5 @@
 <br clear="both">
 
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/aloll0/output/snake.svg" alt="Snake animation" />
+  <img align="center" src="https://raw.githubusercontent.com/aloll0/aloll0/output/snake.svg" alt="Snake animation" />
 </div>
