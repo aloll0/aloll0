@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="CLion logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS82tEpPmO7tRPckU2pBUXl0JGRWevtGahgAJW5xDiOw&s=10)" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://ibb.co/nNVTnRYn" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
 </div>
 
 ## 🤵Connect with Me :
