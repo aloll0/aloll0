@@ -67,6 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://i.ibb.co/NdkXm7Jm/pngegg.png" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
+  <img src="https://plain-eeur-prod-public.komododecks.com/202607/08/Xiqe5s5JUYj2apA91yzB/image.png" height="30" alt="Jira logo" style="margin: 10px; width: 40px; height: 40px;"/>
 </div>
 
 ## 🤵Connect with Me :
